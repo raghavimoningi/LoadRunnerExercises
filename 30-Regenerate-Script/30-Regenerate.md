@@ -24,7 +24,7 @@ Open the desired script, press <kbd>Ctrl+Shift+R</kbd>, click on <b>Options</b>,
 Open the desired script, press <kbd>Ctrl+Shift+R</kbd>, click on <b>Options</b>, under <b>General > Script</b>, select <b>JavaScript</b> and then click on OK.
 </p>
 
-![Regenerate Deleted Actions](./assets/00.jpg)
+![Regenerate Deleted Actions](assets/00.jpg)
 
 </details><br/>
 
@@ -35,7 +35,7 @@ Open the desired script, press <kbd>Ctrl+Shift+R</kbd>, click on <b>Options</b>,
 Open the desired script, press <kbd>Ctrl+Shift+R</kbd>, click on <b>Options</b>, under <b>HTTP Properties > Advanced</b>, click on<b>Headers</b>, select Record headers in list and then uncheck Accept-Language and then click on OK twice.
 </p>
 
-![Exclude Headers](./assets/30.jpg)
+![Exclude Headers](assets/30.jpg)
 
 </details><br/>
 
@@ -55,6 +55,6 @@ Open the desired script, press <kbd>Ctrl+Shift+R</kbd>, click on <b>Recording</b
 Open the desired script, press <kbd>Ctrl+Shift+R</kbd>, click on <b>Rules</b>, under <b>Correlations</b>, check the desired rules, and then click on OK.
 </p>
 
-![Apply Rules](./assets/50.jpg)
+![Apply Rules](assets/50.jpg)
 
 </details><br/>

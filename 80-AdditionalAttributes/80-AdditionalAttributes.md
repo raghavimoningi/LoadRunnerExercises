@@ -7,7 +7,7 @@
 Go to `Replay > Runtime Settings > General > Additional Attributes`, click on `Add` to add additional attributes as shown below.
 </p>
 
-![Additional Attributes](./assets/00.jpg)
+![Additional Attributes](assets/00.jpg)
 
 </details><br/> 
 
@@ -42,7 +42,7 @@ LPCSTR server;
 ```
 </p>
 
-![Additional Attributes](./assets/00.jpg)
+![Additional Attributes](assets/00.jpg)
 
 </details><br/> 
 
@@ -63,6 +63,6 @@ Go to the desired script folder, open `default.cfg` file and add the argument va
 
 </p>
 
-![Additional Attributes](./assets/00.jpg)
+![Additional Attributes](assets/00.jpg)
 
 </details><br/> 

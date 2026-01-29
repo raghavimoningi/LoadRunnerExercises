@@ -11,7 +11,7 @@
 Go to Replay > Runtime Settings > General > Think Time.
 </p>
 
-![Think Time](./assets/00.jpg)
+![Think Time](assets/00.jpg)
 
 </details><br/>
 
@@ -22,7 +22,7 @@ Go to Replay > Runtime Settings > General > Think Time.
 Go to Replay > Runtime Settings > General > Think Time, select any radio button option except Ignore think time and then check `Limit think time to` checkbox.
 </p>
 
-![Limit Think Time](./assets/10.jpg)
+![Limit Think Time](assets/10.jpg)
 
 </details><br/>
 
@@ -44,7 +44,7 @@ Go to Replay > Runtime Settings > General > Think Time, select any radio button 
 Go to Replay > Runtime Settings > General > Think Time, select `Use random percentage of recorded think time` option.
 </p>
 
-![Pacing](./assets/30.jpg)
+![Pacing](assets/30.jpg)
 
 </details><br/>
 

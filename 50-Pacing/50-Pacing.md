@@ -9,7 +9,7 @@
 Go to Replay > Runtime Settings > General > Pacing.
 </p>
 
-![Pacing](./assets/00.jpg)
+![Pacing](assets/00.jpg)
 
 </details><br/>
 
@@ -19,7 +19,7 @@ Go to Replay > Runtime Settings > General > Pacing.
 <p>
 </p>
 
-![Pacing](./assets/10.jpg)
+![Pacing](assets/10.jpg)
 
 </details><br/>
 
@@ -29,7 +29,7 @@ Go to Replay > Runtime Settings > General > Pacing.
 <p>
 </p>
 
-![Pacing](./assets/20.jpg)
+![Pacing](assets/20.jpg)
 
 </details><br/>
 

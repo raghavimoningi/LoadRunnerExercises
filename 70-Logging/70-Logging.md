@@ -9,7 +9,7 @@
 Go to Replay > Runtime Settings > General > Log, select `Extended Log` as shown below.
 </p>
 
-![Extended Log](./assets/00.jpg)
+![Extended Log](assets/00.jpg)
 
 </details><br/> 
 
@@ -46,7 +46,7 @@ Go to Replay > Runtime Settings > General > Log, select `Extended Log` as shown 
 <br/>
 <p>
 
-![Enable Log when occurs](./assets/30.jpg)
+![Enable Log when occurs](assets/30.jpg)
 
 </p>
 

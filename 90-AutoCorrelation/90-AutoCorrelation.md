@@ -6,7 +6,7 @@ For below exercises, please record the Pet Store business flow using the below s
 * Create an account at [https://petstore.octoperf.com/actions/Catalog.action](https://petstore.octoperf.com/actions/Catalog.action)
 * Recording Options
 
-![Recording Options](./assets/Instructions.jpg)
+![Recording Options](assets/Instructions.jpg)
 
 |   **Steps to record**   | **Transaction Name**  |
 |   ---------------   | ----------------  |
@@ -33,7 +33,7 @@ For below exercises, please record the Pet Store business flow using the below s
 Click on `Design Studio`, select the respective jsessionid `Text in response` and then click on `Correlate` button.
 </p>
 
-![Auto Correlate](./assets/00.jpg)
+![Auto Correlate](assets/00.jpg)
 
 </details><br/> 
 
@@ -44,7 +44,7 @@ Click on `Design Studio`, select the respective jsessionid `Text in response` an
 Click on `Design Studio`, select the respective jsessionid `Text in response` and then click on `Undo Correlation` button.
 </p>
 
-![Auto Correlate](./assets/10.jpg)
+![Auto Correlate](assets/10.jpg)
 
 </details><br/> 
 
@@ -55,7 +55,7 @@ Click on `Design Studio`, select the respective jsessionid `Text in response` an
 Go to `Record > Recording Options`, click on `Configuration` under `Correlations` and make sure the `Scan for correlations applying:` have been checked as shown below.
 </p>
 
-![Auto Correlate](./assets/20.jpg)
+![Auto Correlate](assets/20.jpg)
 
 </details><br/> 
 
@@ -66,7 +66,7 @@ Go to `Record > Recording Options`, click on `Configuration` under `Correlations
 Click on `Design Studio`, select the respective jsessionid `Text in response` and then double click on the respective correlation parameter which will enable you to change the default parameter name.
 </p>
 
-![Auto Correlate](./assets/30.jpg)
+![Auto Correlate](assets/30.jpg)
 
 </details><br/> 
 
@@ -77,7 +77,7 @@ Click on `Design Studio`, select the respective jsessionid `Text in response` an
 Click on `Design Studio`, select the respective jsessionid and then double click on the respective correlation parameter which will enable you to change the default parameter name.
 </p>
 
-![Auto Correlate](./assets/30.jpg)
+![Auto Correlate](assets/30.jpg)
 
 </details><br/> 
 
@@ -88,7 +88,7 @@ Click on `Design Studio`, select the respective jsessionid and then double click
 Click on `Design Studio`, select the respective jsessionid and then click on `Add as Rule`, enter a rule name and select the application from the drop down, and then click on OK to create a rule.
 </p>
 
-![Auto Correlate](./assets/30.jpg)
+![Auto Correlate](assets/30.jpg)
 
 </details><br/>
 
@@ -98,6 +98,6 @@ Click on `Design Studio`, select the respective jsessionid and then click on `Ad
 <p>
 Go to `Record > Recording Options`, click on `Configuration` under `Correlations`, click on `View and Edit` to add the string to the exclusion list.</p>
 
-![Auto Correlate](./assets/60.jpg)
+![Auto Correlate](assets/60.jpg)
 
 </details><br/> 

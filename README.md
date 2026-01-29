@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=1EAEDB)](https://www.youtube.com/user/QAInsights?sub_confirmation=1)
 [![](https://img.shields.io/badge/donate-paypal-1EAEDB)](https://www.paypal.com/paypalme/NAVEENKUMARN)
 
-![LoadRunner Exercises](./assets/Banner.png)
+![LoadRunner Exercises](assetsanner.png)
 
 These exercises were designed to learn LoadRunner by doing. This exercise series is a part of **Performance Testing Trilogy 🔺**. 
 

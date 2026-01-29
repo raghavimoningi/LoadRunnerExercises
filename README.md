@@ -1,8 +1,6 @@
 # ⚡ Micro Focus LoadRunner Professional Exercises
 
-These exercises were designed to learn LoadRunner by doing. This exercise series is a part of **Performance Testing Trilogy 🔺**. 
-
-Looking for JMeter Exercises? [Here it is](https://github.com/QAInsights/JMeter-Exercises).
+These exercises were designed to learn LoadRunner by doing. This exercise series is a part of **Performance Testing Trilogy 🔺**.
 
 > Currently these series under active development.
 
